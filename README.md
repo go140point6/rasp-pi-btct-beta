@@ -1,6 +1,6 @@
 # rasp-pi-btct-beta
 
-Temp repo for testing with creating custom Raspbian image for Bitcoin Token wallet version 1.1.  Will come up with a permanant, properly documented solution next (likely a fork of pi-gen with changes specific to btct).
+Temp repo for testing with creating custom Raspbian Buster image for Bitcoin Token wallet version 1.1.  Will come up with a permanant, properly documented solution next (likely a fork of pi-gen with changes specific to btct).
 
 Tested image on Pi 4b 4GB and Pi 3b (not tested on 3b+ yet).  In all cases, if the latest Raspbian Buster works on your device, this should also work.  It's a straight build from Raspbian official source using pi-gen (same tool they use to create official releases) with only the official Bitcoin Token v1.1 wallet added, and some cosmetic customizations.
 
